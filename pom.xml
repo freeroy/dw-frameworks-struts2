@@ -11,7 +11,7 @@
 	<artifactId>dw-frameworks-struts2</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-frameworks-struts2</name>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<description>struts2 框架扩展支持包</description>
 
 	<!-- scm配置 -->
